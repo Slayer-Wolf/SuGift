@@ -61,7 +61,7 @@ const Stats =()=>{
 				</svg>
 			</div>
 			<div className="flex items-center justify-between flex-1 p-3">
-				<p className="text-2xl font-semibold">99,9 %</p>
+				<p className="text-2xl font-semibold">99.9 %</p>
 				<p>Lazy</p>
 			</div>
 		</div>
